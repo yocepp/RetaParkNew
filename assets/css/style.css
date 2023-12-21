@@ -2018,9 +2018,9 @@ label {
     padding:60px 30px 35px 35px;
   }
 }
-.blog_details p {
-  margin-bottom:30px;
-}
+/* .blog_details p {
+  margin-bottom:300px;
+} */
 .blog_details a {
   color:#ff8b23;
 }
