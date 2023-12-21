@@ -531,8 +531,8 @@ label {
   }
 }
 .footer-padding {
-  padding-top:150px;
-  padding-bottom:130px;
+  padding-top:100px;
+  padding-bottom:100px;
 }
 @media only screen and (min-width:992px) and (max-width:1200px) {
   .footer-padding {
@@ -1781,7 +1781,9 @@ label {
   width:100%;
 }
 .footer-area .footer-logo img {
-  margin-bottom:32px;
+  margin-bottom:30px;
+  width: 120px;
+  margin-left: 38px;
 }
 .footer-area .footer-social {
   margin-bottom:30px;
