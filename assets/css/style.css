@@ -1624,6 +1624,21 @@ label {
   font-size:16px;
   text-transform: capitalize;
 }
+/* Menambahkan gaya untuk megadiskon */
+.mega-diskon {
+    text-align: center;
+    margin-bottom: 30px; /* Atur sesuai kebutuhan Anda */
+    padding: 10px; /* Atur sesuai kebutuhan Anda */
+    background-color: #d7ad3c; /* Warna latar belakang kotak */
+    border: 1px solid #e0e0e0; /* Warna border kotak */
+    border-radius: 8px;
+}
+
+.mega-diskon h2 {
+    font-size: 50px; 
+    color: white;
+}
+
 /* Homepage1 Testimonial */
 .h1-testimonial-active button.slick-arrow {
   position:absolute;
