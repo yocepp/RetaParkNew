@@ -869,6 +869,8 @@ label {
 .hero-overly {
   position:relative;
   z-index:1;
+  background-size: cover;
+  box-shadow: 0px 5px 10px gray;
 }
 .hero-overly::before {
   position:absolute;
